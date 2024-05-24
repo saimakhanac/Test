@@ -1,3 +1,6 @@
+
+// React createElement => Object(initially) => HTMLElement(render)
+
 // JSX is not html in JS 
 // Jsx just have html like syntax
 
