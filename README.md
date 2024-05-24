@@ -1,3 +1,11 @@
+// JSX is not html in JS 
+// Jsx just have html like syntax
+
+
+// JSX (transpiled before it reaches the JS) - PARCEL - Babel
+
+// JSX => React.createElement => Reactelement-JS Object => HTMLElement(render)
+
 # Namaste React git
 
 # Parcel
@@ -17,3 +25,4 @@
 - HTTPS
 - Tree Shaking
 - Different dev and prod bundles
+
