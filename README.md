@@ -1,15 +1,18 @@
 
-// React createElement => Object(initially) => HTMLElement(render)
+# React createElement => Object(initially) => HTMLElement(render)
 
-// JSX is not html in JS 
-// Jsx just have html like syntax
+# JSX is not html in JS 
+# Jsx just have html like syntax
 
 
-// JSX (transpiled before it reaches the JS) - PARCEL - Babel
+# JSX (transpiled before it reaches the JS) - PARCEL - Babel
 
-// JSX => React.createElement => Reactelement-JS Object => HTMLElement(render)
+# JSX => React.createElement => Reactelement-JS Object => HTMLElement(render)
 
 # Namaste React git
+
+# JSX can prevents cross site scripting attack 
+
 
 # Parcel
 - Dev build
