@@ -32,3 +32,47 @@
 - Tree Shaking
 - Different dev and prod bundles
 
+# Namaste Food
+
+/*
+* Header
+* -Logo
+* - Nav Items
+* Body 
+* - Search
+* - RestaurantContainer
+ - RestaurantCard 
+  - Img
+  -Name of rest, star rating , cuisine, delivery time
+* Footer
+ - Copyright
+ - Links
+ - Address
+ - Contact
+
+*/
+
+
+// not using keys for map is not acceptable <<<< index as key (not recomended) (use only if you dont't have a unique Id) <<<<<<<<< unique id is best to use as key
+
+
+
+Two types of import export 
+
+1. Default Import/Export
+
+export default Component
+import Component from "path"
+
+2. Named import export
+
+export const Component;
+import {Component} from "path"
+
+
+# React Hooks
+
+(Normal Js utility functions)
+
+- useState() - Super Powerful state variable in react
+- useEffect() - 
